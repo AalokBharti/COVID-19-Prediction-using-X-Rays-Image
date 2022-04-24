@@ -1,6 +1,6 @@
 # COVID-19-Prediction-using-X-Rays-Image
 
-### I applied five Transfer Learning Approach:-
+### I applied five Transfer Learning Approaches:-
   1. MobileNetV2
   2. VGG16
   3. Xception
